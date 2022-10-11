@@ -1,4 +1,4 @@
-#!/bin/bash -e
+#!/bin/bash
 
 # This function checks if the current directory
 # is a github repository.
